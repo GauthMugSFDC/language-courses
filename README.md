@@ -1,6 +1,6 @@
 # Salesforce DX Project: Next Steps
 
-Now that you’ve created a Salesforce DX project, what’s next? Let the fun continue. Here are some documentation resources to get you started. Yay, this looks fun. Life is good :)
+Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started. Yay, this looks fun. Life is good. Let the fun begin :)
 
 ## How Do You Plan to Deploy Your Changes?
 
